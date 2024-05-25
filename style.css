@@ -115,9 +115,23 @@ footer {
   letter-spacing: 0.1em;
   padding-bottom: 20rem;
 }
+
+
+
 @media (min-width: 730px) {
   footer {
     margin-top: 20rem;
     padding-bottom: 20rem;
   }
 }
+
+#btn-back-to-top {
+  position: fixed;
+  padding:8px ;
+  width: 37px;
+  bottom: 17px;
+  right: 25px;
+  display: none;
+  border-radius: 50%;
+}
+
