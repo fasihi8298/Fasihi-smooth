@@ -8,7 +8,7 @@ html {
 
 body {
   font-size: 1.6rem;
-  background: #fff5da;
+  background: white;
   font-family: "Luckiest Guy", cursive;
 }
 
@@ -22,7 +22,7 @@ header {
   top: 0;
   width: 100%;
   padding: 2.3rem 0 0.5rem;
-  background: #fff5da;
+  background: white;
   z-index: 1;
 }
 
@@ -35,7 +35,7 @@ header {
   left: 0;
   top: 0;
   width: 100%;
-  color: #F47340;
+  color: green;
   text-shadow: 0 0 2px rgba(0, 0, 0, 0.3);
 }
 
