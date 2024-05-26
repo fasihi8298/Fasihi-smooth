@@ -116,15 +116,6 @@ footer {
   padding-bottom: 20rem;
 }
 
-
-
-@media (min-width: 730px) {
-  footer {
-    margin-top: 20rem;
-    padding-bottom: 20rem;
-  }
-}
-
 #btn-back-to-top {
   position: fixed;
   padding:8px ;
@@ -134,4 +125,15 @@ footer {
   display: none;
   border-radius: 50%;
 }
+
+
+
+
+@media (min-width: 730px) {
+  footer {
+    margin-top: 20rem;
+    padding-bottom: 20rem;
+  }
+}
+
 
