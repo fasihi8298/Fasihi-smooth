@@ -126,6 +126,14 @@ footer {
   border-radius: 50%;
 }
 
+#btn-back-to-top:hover{
+  color: white;
+  transition: 1s;
+  background-color: blue;
+  border: none;
+
+}
+
 
 
 
